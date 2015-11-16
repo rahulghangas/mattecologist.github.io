@@ -57,14 +57,14 @@ type-speed:	10		# Default 10
 start-delay: 200	# Default 200
 delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "insects, ecology, R"
+  - text: "something witty soon"
 
 ########
 # Blog #
 ########
 
-post-preview-words: 96
+post-preview-words: 150
 
 paginate: 5
 
@@ -96,7 +96,7 @@ career-img: "/img/career/default.png"
 # Contact layout #
 ##################
 
-email: "your@email.here"
+email: "matthill@protonmail.com"
 
 ##################
 # Social Buttons #
@@ -105,10 +105,10 @@ email: "your@email.here"
 social:
   - title: "twitter"
     url: "https://twitter.com/InsectEcology"
+  - title: "google"
+    url: "https://scholar.google.co.za/citations?user=Vyp21-AAAAAJ&hl=en"
   - title: "github"
     url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "rss"
-    url: "/feed.xml"
 
 ############
 # 404 page #
