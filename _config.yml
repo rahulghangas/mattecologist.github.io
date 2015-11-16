@@ -23,6 +23,7 @@ force-https: True
 pages_list:
   About: 'about'
   Blog: 'latest-post'
+  Publications: 'publications'
   Timeline: 'timeline'
   Contact: 'contact'
 
