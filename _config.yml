@@ -8,7 +8,7 @@ url: "https://mattecologist.github.io"
 # and NOT your user repository (https://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 
-baseurl: /personal-jekyll-theme
+baseurl: "/mattecologist.github.io"
 
 # Google tracking id to track your visitors
 
