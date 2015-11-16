@@ -1,7 +1,7 @@
 
 # Site settings
 
-url: "https://panossakkos.github.io"
+url: "https://mattecologist.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -32,12 +32,12 @@ pages_list:
 # HTML Head #
 #############
 
-author: "John Smith"
+author: "Matt Hill"
 lang: "en"
-title: "{ John Smith }"
+title: "{ Matt Hill }"
 favicon: "/img/favicon.ico"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "insects, ecology, R"
+keywords: "none"
 
 ################
 # Intro layout #
