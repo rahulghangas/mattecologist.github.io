@@ -88,10 +88,10 @@ events:
     description: "Postdoctoral Fellow"
   - image: "/img/career/rlem.jpg"
     date: "Jan 2009 - Jan 2013"
-    description: "PhD"
+    description: "PhD - <em> A predictive framework... climate change </em>"
   - image: "/img/career/evania.jpg"
     date: "Jan 2003 - June 2008"
-    description: "BSc (Honours)"
+    description: "BSc (Honours) Systematics of evaniid wasps"
 
 # First image of the Career timeline
 career-img: "/img/career/matt.png"
