@@ -83,7 +83,7 @@ disqus-shortname: "mattecologist"
 ###############
 
 events:
-  - image: "/img/career/dorsalis.png"
+  - image: "/img/career/dorsalis.jpg"
     date: "Feb 2013 - Today"
     description: "Postdoctoral Fellow"
   - image: "/img/career/rlem.jpg"
