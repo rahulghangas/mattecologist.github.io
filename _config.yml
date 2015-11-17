@@ -10,7 +10,7 @@ url: "https://mattecologist.github.io"
 
 # Google tracking id to track your visitors
 
-google-tracking-id: "UA-35880426-4"
+google-tracking-id: #"UA-35880426-4"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -59,7 +59,9 @@ start-delay: 200	# Default 200
 delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
   - text: "insects, ecology, R"
-  - text: "something witty soon"
+  - text: "macroecology + biogeography"
+  - text: "biological invasions + climate change"
+  - text: "open source + open science"
 
 ########
 # Blog #
@@ -85,16 +87,16 @@ disqus-shortname: "mattecologist"
 events:
   - image: "/img/career/dorsalis.jpg"
     date: "Feb 2014 - Today"
-    description: "Postdoctoral Fellow, Centre for Invasion Biology, Stellenbosch University <size=2>photo: Bactrocera dorsalis by IAEA (International Atomic Energy Agency) Licensed under CC BY 2.0 </size>"
+    description: "Postdoctoral Fellow, Centre for Invasion Biology, Stellenbosch University <small> Bactrocera dorsalis by IAEA (International Atomic Energy Agency) Licensed under CC BY 2.0 </small>"
   - image: "/img/career/nema.png"
     date: "Feb 2013 - Jan 2014"
     description: "Postdoctoral Fellow, Dept. Conservation Ecology & Entomology, Stellenbosch University"
   - image: "/img/career/rlem.jpg"
     date: "Jan 2009 - Jan 2013"
-    description: "PhD - <em> A predictive framework to assess response of invasive invertebrates to climate change: pest mite species of Australian grains.</em> The University of Melbourne <size=2> Halotydeus destructor IPM Technologies </size>"
+    description: "PhD - <em> A predictive framework to assess response of invasive invertebrates to climate change: pest mite species of Australian grains.</em> The University of Melbourne" #<size=2> Halotydeus destructor IPM Technologies </size>"
   - image: "/img/career/evania.jpg"
     date: "Jul 2007 - Jun 2008"
-    description: "BSc (Hons) <em> Systematics of the Australian evaniids (Hymenoptera: Evaniidae) based on 28S rRNA and cytochrome oxidase I genes.</em> The University of Adelaide <size=2>photo: Evania appendigaster 3 by David Crummey Licensed under CC BY 2.0 </size>"
+    description: "BSc (Hons) <em> Systematics of the Australian evaniids (Hymenoptera: Evaniidae) based on 28S rRNA and cytochrome oxidase I genes.</em> The University of Adelaide" # <size=2>photo: Evania appendigaster 3 by David Crummey Licensed under CC BY 2.0 </size>"
   - image: "/img/career/mouse.jpg"
     date: "Jan 2003 - Jun 2007"
     description: "BSc - Majors in Ecology and Zoology. The University of Adelaide"
@@ -118,7 +120,7 @@ social:
   - title: "google"
     url: "https://scholar.google.co.za/citations?user=Vyp21-AAAAAJ&hl=en"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com/mattecologist"
 
 ############
 # 404 page #
