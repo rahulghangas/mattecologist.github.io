@@ -83,18 +83,18 @@ disqus-shortname: "mattecologist"
 ###############
 
 events:
-  - image: "/img/career/stellenbosch.png"
+  - image: "/img/career/dorsalis.png"
     date: "Feb 2013 - Today"
     description: "Postdoctoral Fellow"
-  - image: "/img/career/melbourne.jpg"
+  - image: "/img/career/rlem.jpg"
     date: "Jan 2009 - Jan 2013"
     description: "PhD"
-  - image: "/img/career/adelaide.png"
+  - image: "/img/career/evania.jpg"
     date: "Jan 2003 - June 2008"
     description: "BSc (Honours)"
 
 # First image of the Career timeline
-career-img: "/img/career/default.png"
+career-img: "/img/career/matt.png"
 
 ##################
 # Contact layout #
