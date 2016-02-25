@@ -85,7 +85,7 @@ disqus-shortname: "mattecologist"
 ###############
 
 events:
-  - image: "/img/career/default.png"
+  - image: "/img/career/aphid.png"
     date: "Feb 2016 - "
     description: "Postdoctoral Fellow, CSIRO Agriculture, Canberra"
   - image: "/img/career/dorsalis.jpg"
