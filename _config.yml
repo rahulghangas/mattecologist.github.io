@@ -22,7 +22,6 @@ force-https: True
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
   Publications: 'publications'
   Timeline: 'timeline'
   Contact: 'contact'
@@ -63,22 +62,6 @@ lines:			# You can add HTML Tags in the Text
   - text: "biological invasions + climate change"
   - text: "open source + open science"
 
-########
-# Blog #
-########
-
-post-preview-words: 150
-
-paginate: 5
-
-fb-share: False
-twitter-share: True
-reddit-share: True
-google-plus-share: True
-linkedin-share: True
-pinterest-share: False
-vkontakte-share: True
-disqus-shortname: "mattecologist"
 
 ###############
 # Life Events #
