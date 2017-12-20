@@ -68,7 +68,7 @@ lines:			# You can add HTML Tags in the Text
 ###############
 
 events:
- - image: "/img/career/matt.png"
+  - image: "/img/career/matt.png"
     date: "August 2017 - "
     description: "Research Scientist, Data61, CSIRO, Canberra"
   - image: "/img/career/aphid.png"
